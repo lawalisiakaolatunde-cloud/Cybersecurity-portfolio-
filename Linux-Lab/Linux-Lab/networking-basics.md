@@ -34,3 +34,11 @@ Command used:
 
 ```bash
 ping 127.0.0.1
+## Nmap Practical Test
+
+### Localhost Port Scan
+
+Command used:
+
+```bash
+nmap 127.0.0.1
