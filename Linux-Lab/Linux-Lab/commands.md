@@ -17,3 +17,16 @@ Creates a new directory.
 Example:
 ```bash
 mkdir cyberlab
+## `touch`
+
+Creates a new empty file.
+
+Example:
+touch test.txt
+
+## `cat`
+
+Displays the contents of a file.
+
+Example:
+cat notes.txt
