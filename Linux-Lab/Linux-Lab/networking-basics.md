@@ -26,3 +26,11 @@ Build a basic understanding of networking concepts before progressing to network
 ## Lab Safety
 
 All networking practice will be performed only on systems and networks that I own or have permission to test.
+## Practical Test
+
+### Localhost Ping Test
+
+Command used:
+
+```bash
+ping 127.0.0.1
